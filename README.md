@@ -65,7 +65,7 @@ DASH: 84-1B-5E-91-7E-2D DOT: 841B.5E91.7E2D COLON: 84:1B:5E:91:7E:2D
 
 ## Speed
 
-macformat reformat thousands of mac address per second
+macformat can reformat thousands of mac address per second
 
 ## Download
 
