@@ -16,8 +16,8 @@ Usage of macformat:
 
 ## Several input methods
 
-= Input via STDIN (Standard Input) - Unix pipe or STDIN redirect (<) a file with MAC addresses or any input with MAC addresses.
-= Input via command line options shown above -mac or -file.
+- Input via STDIN (Standard Input) - Unix pipe or STDIN redirect (<) a file with MAC addresses or any input with MAC addresses.
+- Input via command line options shown above -mac or -file.
 
 ## Examples
 
